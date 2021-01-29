@@ -2,8 +2,8 @@
 	"SubscriberListSendingStatus": {
 		"segmentId": "21",
 		"segmentName": "",
-		"currentSendingQuantity": 0,
-		"sizeSendingSegment": 0,
+		"currentSendingQuantity": 110,
+		"sizeSendingSegment": 11110,
 		"busy": false
 	}
 }
